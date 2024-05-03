@@ -1,0 +1,11 @@
+body {
+    color: #000000; /* Texto negro */
+    background-color: #ffffff; /* Fondo blanco */
+    font-family: 'Arial', sans-serif;
+}
+
+.sidebar .sidebar-content {
+    background-color: #e8f5e9;
+}
+
+
