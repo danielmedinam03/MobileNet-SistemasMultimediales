@@ -1,0 +1,1 @@
+Se realiza el entrenamiento del modelo para la predicción de imagenes de aves, además en el archivo app.py se implementa la interfaz web, donde se puede observar la aplicación del modelo anteriormente entrenado, para la instalación de los paquetes necesarios, ejecutar el comando "pip install -r requirements.txt"
